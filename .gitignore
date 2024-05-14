@@ -1,0 +1,5 @@
+env
+Article_Generator/generator_app/.env
+Article_Generator/generator_app/__pycache__
+Article_Generator/generator_app/migrations
+Article_Generator/Article_Generator/__pycache__
